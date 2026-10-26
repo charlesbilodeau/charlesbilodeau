@@ -14,6 +14,16 @@ J'aime donner vie à des idées à travers la création d'univers, de personnage
 - **Création de médias :** Motion design, animation graphique, illustrations vectoriels et effets visuels.
 - **Développement de jeux vidéo :** Programmation, conception de mécaniques et création d'expériences interactives.
 
+## ❤️ Mes passions et intérêts
+
+- 🎮 **Jeux vidéo** — Découvrir de nouveaux univers, leurs histoires et leurs mécaniques.
+- 🎬 **Cinéma** — Les films, la narration et les effets visuels.
+- 🏰 **Heroic fantasy** — Les mondes fantastiques, la magie et les aventures épiques.
+- 🚀 **Science-fiction** — Les univers futuristes, les technologies et l'exploration spatiale.
+- 🥋 **Karaté** — La discipline, la technique et le dépassement de soi.
+- 🧗 **Escalade** — Les défis physiques et la progression personnelle.
+- ♟️ **Échecs** — La stratégie, la réflexion et la résolution de problèmes.
+
 ## 🛠️ Logiciels et technologies
 
 **3D et animation**
@@ -36,3 +46,5 @@ Vous pouvez découvrir mes réalisations en 3D, en animation et en développemen
 🌐 [Découvrir mon portfolio](https://charlesbilodeau.github.io/)
 
 Mes dépôts GitHub présentent également certains de mes projets de programmation et de création interactive.
+
+## 🔗 Me retrouver
